@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About Me
+I am a college student who likes to program things! (mostly software);
+I use MERN for most of my projects.
+
 <!--
 **reysgitcode/reysgitcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
